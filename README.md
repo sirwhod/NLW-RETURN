@@ -20,7 +20,7 @@ Nas video aulas, que aconteceram no periodo de 7 dias `01/05/2022 á 08/05/2022`
 
 - [x] Aula 1 - O Ponto de Partida
 - [x] Aula 2 - Aceleração máxima
-- [ ] Aula 3 - Não Definido
+- [ ] Aula 3 - Novas Habilidades
 - [ ] Aula 4 - Não Definido
 - [ ] Aula 5 - Não Definido
 
@@ -101,3 +101,48 @@ Na segunda aula, se explica sobre CSS Responsivo e javaScript
     - Document Object Model
   - [x] Referenciando tag HTML pelo atributo id
     - [x] Objeto: Propriedades e Funcionalidades
+
+**Terceira Aula - Novas Habilidades**
+
+> Na terceita aula, aprendemos sobre padronização de estrutura HTML e CSS e sobre utilização de Libs JavaScript.
+
+![Print_terceiro_dia_1](./assets/pictures/terceiro1.png)
+
+> Aprendemos a criar `section` no HTML para separar as sessões de conteúdo da página
+
+![Print_terceiro_dia_2](./assets/pictures/terceiro2.png)
+
+![Print_terceiro_dia_3](./assets/pictures/terceiro3.png)
+
+> Criamos a sessão Sobr (about), mas antes organizamos todo o HTML para ter um facil entendimento do que será construido, separando as estilizações globais das específicas no CSS tornando assim mais facil a leitura do documento e a criação de novas sessões utilizando a estrutura criada para auxiliar nas novas estilizações!
+
+**Temas Ensinados**
+
+- [x] HTML
+  - [x] Padronizando a estrutura
+  - [x] Tag `<section>`
+  - [x] Adicionando âncoras
+  - [x] Evento de clique no menu
+  - [x] Seção serviços e sobre
+- [x] CSS
+  - [x] Seletor de id `#services, #about`
+  - [x] Transições
+  - [x] Rolagem suave (smooth scrolling)
+    - [x] Sobreposição de elementos
+    - [x] Menu
+- [x] javaScript
+  - [x] Obejetos
+    - [x] Propriedades e Funcionalidades
+      - [x] Atributos e Métodos
+    - [x] `{ prop: "value"}`
+    - [x] Atribuímos objeto à uma variável
+    - [x] Vimos função que retorna objeto
+      - [x] `return`
+  - [x] Variável
+    - [x] o que é? pra que serve?
+    - [x] Criamos com a palavra reservada `var`
+    - [x] existem outras maneiras de criar
+  - [x] Tipo de dado
+    - [x] `string` com Template Literals (Template String) ``
+  - [x] Biblioteca de terceiros
+    - [x] [ScrollReveal (scrollrevealjs.org)](https://scrollrevealjs.org/)
